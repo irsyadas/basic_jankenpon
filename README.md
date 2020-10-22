@@ -1,1 +1,1 @@
-# Basic Jankenpon (Rock, Paper, Scissors) Game using Python
+# Jankenpon (Rock, Paper, Scissors) Game using Python
